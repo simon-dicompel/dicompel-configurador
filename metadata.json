@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dicompel Catalog CRM",
+  "description": "A responsive product catalog and CRM system for Dicompel, featuring multi-role access (Client, Representative, Admin), order management, and product administration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
